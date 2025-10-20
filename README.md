@@ -5,7 +5,6 @@
 ![PyPI Version](https://img.shields.io/pypi/v/codestack)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-[![PyPI version](https://img.shields.io/pypi/v/codestack.svg)](https://pypi.org/project/codestack/)
 
 **Codestack** is a universal, programming- and framework-agnostic project generator for any tech stack.  
 It allows developers to generate any kind of full projects, be it web apps, mobile apps, machine learning solutions, to backend services using simple natural language instructions. Codestack automatically creates folder structures, source files, configuration files, and dependency files.
@@ -63,3 +62,6 @@ preview_project("finance_calculator")
 
 # Developers have full access to the generated project for further customization and development
 ```
+### PYPI
+[![PyPI version](https://img.shields.io/pypi/v/codestack.svg)](https://pypi.org/project/codestack/)
+
